@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": -1
+    },
+    "output": 0
+  },
+  {
+    "id": 2,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 0
+    },
+    "output": 1
+  },
+  {
+    "id": 3,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 1
+    },
+    "output": -1
+  },
+  {
+    "id": 4,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 2
+    },
+    "output": -1
+  },
+  {
+    "id": 5,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 3
+    },
+    "output": 2
+  },
+  {
+    "id": 6,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 4
+    },
+    "output": -1
+  },
+  {
+    "id": 7,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 5
+    },
+    "output": 3
+  },
+  {
+    "id": 8,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 6
+    },
+    "output": -1
+  },
+  {
+    "id": 9,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 7
+    },
+    "output": -1
+  },
+  {
+    "id": 10,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 8
+    },
+    "output": -1
+  },
+  {
+    "id": 11,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 9
+    },
+    "output": 4
+  },
+  {
+    "id": 12,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 10
+    },
+    "output": -1
+  },
+  {
+    "id": 13,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 11
+    },
+    "output": -1
+  },
+  {
+    "id": 14,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 12
+    },
+    "output": 5
+  },
+  {
+    "id": 15,
+    "input": {
+      "nums": [ -1, 0, 3, 5, 9, 12 ],
+      "target": 13
+    },
+    "output": -1
+  }
+]

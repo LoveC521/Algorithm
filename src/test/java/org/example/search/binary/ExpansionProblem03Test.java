@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-@DisplayName("最靠左最靠右索引位置查找")
+@DisplayName("最靠左最靠右索引查找")
 public class ExpansionProblem03Test {
 
 	@ParameterizedTest
